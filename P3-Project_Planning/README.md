@@ -11,7 +11,7 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 https://app.moqups.com/n8ekH7A3Ekm4oZhTg0xJam3e0piVaKJB/view/page/a880590a1
 
-![Mockups](https://user-images.githubusercontent.com/108906488/207667672-65588ecb-e40a-4da2-93ec-6c5855aa462d.png)
+![updatedss](https://user-images.githubusercontent.com/108906488/207882450-915d5403-182f-4925-8a5c-a537795f9430.png)
 
 
 ### Project Tracker
